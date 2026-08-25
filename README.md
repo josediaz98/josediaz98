@@ -10,9 +10,9 @@ I work at the intersection of product, operations, and engineering. I use AI-ass
 - Data-intensive operational products that connect fragmented systems and teams
 - Full-stack applications using TypeScript, Python, React, Node.js, and PostgreSQL
 
-## Selected work
+## Public experiments
 
-- [Rio Zap](https://github.com/josediaz98/rio-zap): a bilingual voice agent grounded in five Rio de Janeiro municipal data sources, built during Web Summit Rio 2026
+- [Rio Zap](https://github.com/josediaz98/rio-zap): a bilingual voice-agent prototype grounded in five Rio municipal data sources, built in three hours during the Web Summit Rio 2026 hackathon
 
 My background includes product, growth, and hands-on software delivery at LAFA, Yape, JOKR, and Favo.
 
