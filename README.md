@@ -12,7 +12,7 @@ I work at the intersection of product, operations, and engineering. I use AI-ass
 
 ## Selected work
 
-- [Rio Zap](https://github.com/jidiaz121/rio-zap): a bilingual voice agent grounded in five Rio de Janeiro municipal data sources, built during Web Summit Rio 2026
+- [Rio Zap](https://github.com/josediaz98/rio-zap): a bilingual voice agent grounded in five Rio de Janeiro municipal data sources, built during Web Summit Rio 2026
 
 My background includes product, growth, and hands-on software delivery at LAFA, Yape, JOKR, and Favo.
 
