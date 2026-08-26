@@ -12,7 +12,7 @@ I work at the intersection of product, operations, and engineering. I use AI-ass
 
 ## Public experiments
 
-- [Trace to Action](https://github.com/josediaz98/trace-to-action): a provider-neutral workflow that turns local meeting transcripts into source-linked summaries and reviewable actions
+- [Trace to Action](https://github.com/josediaz98/trace-to-action): a provider-neutral workflow that lets AI agents turn meeting transcripts and supporting context into source-linked summaries and reviewable actions without inventing commitments
 - [Numa](https://github.com/josediaz98/numa-experiment): my first full-stack product and startup attempt, started in late 2025 when I became obsessed with building alongside Claude Opus 4.5; a practice-management prototype for independent healthcare professionals in Latin America
 - [Rio Zap](https://github.com/josediaz98/rio-zap): a bilingual voice-agent prototype grounded in five Rio municipal data sources, built in three hours during the Web Summit Rio 2026 hackathon
 
