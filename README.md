@@ -14,6 +14,10 @@ I work at the intersection of product, operations, and engineering. I use AI-ass
 
 - [Rio Zap](https://github.com/josediaz98/rio-zap): a bilingual voice-agent prototype grounded in five Rio municipal data sources, built in three hours during the Web Summit Rio 2026 hackathon
 
-My background includes product, growth, and hands-on software delivery at LAFA, Yape, JOKR, and Favo.
+My background includes product, growth, and hands-on software delivery at 
+- LAFA (Mexico-based EV fleet management startup)
+- Yape (Peru's leading payments app, serving 18M+ users)
+- JOKR (LatAm instant-delivery unicorn, $260M Series B co-led by GGV Capital)
+- Favo (LatAm social-commerce startup, $26.5M Series A led by Tiger Global)
 
 [LinkedIn](https://www.linkedin.com/in/josediazalen/)
